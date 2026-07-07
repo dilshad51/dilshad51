@@ -4,28 +4,54 @@
 
 I'm a Computer Science & Engineering (AI & ML) student at Narula Institute of Technology. I enjoy solving challenging problems, building software, and continuously learning new technologies.
 
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
 ## 💻 Currently Learning
-- Data Structures & Algorithms (Java)
-- Python
-- Object-Oriented Programming
-- Git & GitHub
-- Backend Development
+
+- 📚 Data Structures & Algorithms (Java)
+- 🐍 Python
+- ☕ Object-Oriented Programming
+- 🌱 Backend Development
+- 🔧 Git & GitHub
+
+<br>
 
 ## 🛠️ Languages & Tools
-Java • Python • C • C++ • SQL • Git • GitHub • VS Code
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,sql,git,github,vscode" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
 
 ## 📈 Coding Journey
+
 - 🔥 100+ Day LeetCode Streak
 - 🏆 NPTEL Certified
 - 🥇 Hackathon Winner
 - 🥈 2× Hackathon Finalist
 
+<br>
+
 ## 🎯 2026 Goals
-- Solve 500+ DSA problems
-- Build real-world projects
-- Contribute to Open Source
-- Strengthen Backend Development
-- Land a Software Engineering Internship
+
+- 🎯 Solve 500+ DSA Problems
+- 🚀 Build 10+ Projects
+- 🌱 Learn Spring Boot
+- 🌍 Contribute to Open Source
+- 💼 Crack a Software Engineering Internship
+
+</td>
+
+</tr>
+</table>
+
+---
 
 
 - ## 📫 Connect With Me
